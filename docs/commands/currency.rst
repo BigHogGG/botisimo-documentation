@@ -6,10 +6,10 @@
 Receive a DM telling your how much currency you have
 
 Usage:
-    !currency
+    !points
 
 Example:
     ::
 
         user:     !currency
-        botisimo: Currency: 850
+        botisimo: coolpoints: 850
